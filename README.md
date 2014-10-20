@@ -1,4 +1,4 @@
-thecodepath.github.com
+codepath.github.com
 ======================
 
 Our github homepage
